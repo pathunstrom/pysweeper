@@ -1,0 +1,5 @@
+SQUARE_RESOLUTION = (18, 18)
+
+MINE_GROUP = "mines"
+SQUARES_GROUP = "squares"
+UI_GROUP = "ui"
