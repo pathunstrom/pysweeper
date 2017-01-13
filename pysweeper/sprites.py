@@ -209,3 +209,6 @@ class Timer(DirtySprite):
 
     def new_image(self):
         self.image = self.font.render("{:4.2f}".format(self.time), True, CHROME)
+
+    def click_response(self, event):
+        pass
